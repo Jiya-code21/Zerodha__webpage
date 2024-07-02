@@ -1,5 +1,5 @@
 # Zerodha__webpage
-Basic  project using HTML and CSS
+Basic  project using HTML only
 
 Key Learnings
 1) Flexbox Layout: Centering and spacing elements effectively.
